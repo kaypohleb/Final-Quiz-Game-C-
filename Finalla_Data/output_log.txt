@@ -1,0 +1,23 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8792
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  2.146 seconds
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\UDEMY COURSES\New folder\final\FinalQ-20171110T182018Z-001\FinalQ\Finalla_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
